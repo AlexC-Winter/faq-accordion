@@ -101,18 +101,22 @@ body {
 
 h1 {
   font-size: 2em;
+  color: #2f1533;
+  text-transform: capitalize;
 }
 
 h2 {
-
+  font-size: 1.125em;
+  color: #2f1533;
 }
 
 p {
-
+  color: #8c6991;
 }
 
 .content-wrapper {
-
+  width: 90%;
+  margin: 50px 0;
 }
 
 /* ==========================================================================
