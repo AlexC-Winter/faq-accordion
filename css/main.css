@@ -123,46 +123,9 @@ p {
 
 /* Header */
 
-header {
-  display: flex;
-  justify-content: left;
-  align-items: left;
-  flex-flow: row wrap;
-}
-
-header figure {
-  display: flex;
-  justify-content: left;
-  align-items: left;
-  flex-flow: row wrap;
-  padding: 30px 20px;
-}
-
-header h1 {
-  display: flex;
-  justify-content: left;
-  align-items: left;
-  flex-flow: row wrap;
-  padding: 30px 10px;
-}
-
-header .content-wrapper {
-  display: flex;
-  justify-content: left;
-  align-items: left;
-  flex-flow: row wrap;
-  margin: 0;
-}
 
 /* main */
 
-.plus-icon,
-.qa-pairs h2 {
-  display: flex;
-  justify-content: left;
-  align-items: left;
-  flex-flow: row wrap;
-}
 
 /* ==========================================================================
    Helper classes
