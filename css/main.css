@@ -191,6 +191,15 @@ h1 img {
 .faq p:last-of-type {
   margin-bottom: 0;
 }
+
+.faq hr {
+  height: 1px;
+  background-color: #f9f0ff;
+  border: none;
+  margin: 20px 0;
+}
+
+
 /* ==========================================================================
    Helper classes
    ========================================================================== */
