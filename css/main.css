@@ -96,7 +96,6 @@ html {
 body {
   font-family: 'work Sans', sans-serif;
   font-size: 1em;
-  text-align: left;
 }
 
 h1 {
@@ -117,6 +116,42 @@ p {
 .content-wrapper {
   width: 90%;
   margin: 50px 0;
+}
+
+
+/*---------------------------- Mobile Styles ---------------------------------*/
+
+/* Header */
+
+header {
+  display: flex;
+  justify-content: left;
+  align-items: left;
+  flex-flow: row wrap;
+}
+
+header figure {
+  display: flex;
+  justify-content: left;
+  align-items: left;
+  flex-flow: row wrap;
+  padding: 30px 20px;
+}
+
+.faq {
+  display: flex;
+  justify-content: left;
+  align-items: left;
+  flex-flow: row wrap;
+  padding: 30px 10px;
+}
+
+header .content-wrapper {
+  display: flex;
+  justify-content: left;
+  align-items: left;
+  flex-flow: row wrap;
+  margin: 0;
 }
 
 /* ==========================================================================
