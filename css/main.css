@@ -154,6 +154,17 @@ header .content-wrapper {
   margin: 0;
 }
 
+/* main */
+
+.question,
+.plus-icon,
+.qa-pairs {
+  display: flex;
+  justify-content: left;
+  align-items: left;
+  flex-flow: row wrap;
+}
+
 /* ==========================================================================
    Helper classes
    ========================================================================== */
