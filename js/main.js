@@ -10,7 +10,7 @@ faqs.forEach((faq) => {
       paragraph.classList.remove("hidden");
       image.src = "assets/images/icon-minus.svg";
     } else {
-      paragraph.classList.contains("hidden");
+      paragraph.classList.add("hidden");
       image.src = "assets/images/icon-plus.svg";
     }
   });
